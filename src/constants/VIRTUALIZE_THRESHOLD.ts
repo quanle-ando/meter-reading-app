@@ -1,0 +1,3 @@
+const VIRTUALIZE_THRESHOLD = 5_000;
+
+export default VIRTUALIZE_THRESHOLD;

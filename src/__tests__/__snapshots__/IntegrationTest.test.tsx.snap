@@ -1,0 +1,223 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`IntegrationTest > should render page correctly 1`] = `
+<div
+  class="ant-card ant-card-bordered flex-1 overflow-auto css-hj2wqr css-dev-only-do-not-override-1rfzxih"
+  data-testid="result-card"
+>
+  <div
+    class="ant-card-body"
+  >
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 00:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 01:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 01:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 02:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 02:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 03:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 03:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 04:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 04:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 05:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 05:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 06:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 06:30', 0.335)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 07:00', 0.667)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 07:30', 0.79)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 08:00', 1.023)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 08:30', 1.145)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 09:00', 1.777)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 09:30', 1.563)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 10:00', 1.344)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 10:30', 1)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 00:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 01:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 01:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 02:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 02:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 03:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 03:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 04:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 04:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 05:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 05:30', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 06:00', 0)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 06:30', 0.461)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 07:00', 0.415)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 07:30', 0.778)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 08:00', 0.94)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 08:30', 1.191)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 09:00', 1.345)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 09:30', 1.39)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 10:00', 1.222)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+    <div>
+      INSERT INTO meter_readings ("nmi", "timestamp","consumption")
+VALUES ('NEM1201009', '2005-03-03 10:30', 1)
+ON CONFLICT ("nmi", "timestamp") DO NOTHING;
+    </div>
+  </div>
+</div>
+`;
